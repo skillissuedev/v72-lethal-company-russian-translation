@@ -1,10 +1,10 @@
-![Screenshot.png]
+![](Screenshot.png)
 
 # Что это?
-Этот мод добавляет недостающие предметы и существа в [русификатор RTLC](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/), делая его актуальным на момент версии игры V72.
+Этот мод добавляет недостающие предметы и существа в [мод-русификатор RTLC](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/), делая его актуальным на момент версии игры V72.
 
 # Как установить?
-- установите [RTLC Russian Translation по инструкции, следуя его инструкции](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/)
+- [установите RTLC Russian Translation, следуя инструкциям на его странице](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/).
 - [скачайте этот мод (нажмите на `Source code (zip)` во вкладке `Assets`)](https://github.com/skillissuedev/v72-lethal-company-russian-translation/releases/latest), распакуйте содержимое архива в папку с игрой
 
 # Чего-то не хватает?
